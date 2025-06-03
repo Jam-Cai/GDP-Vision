@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://via.placeholder.com/80" alt="GDP Vision Logo" width="80px" height="80px">
-</p>
+
 <h1 align="center">GDP Vision</h1>
 <h3 align="center">Interactive Economic Indicator Analysis & GDP per Capita Prediction</h3>
 
